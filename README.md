@@ -7,6 +7,7 @@ Este repositório contém o código fonte para o projeto de Inteligência Artifi
 O objetivo deste projeto é comparar o desempenho de dois agentes de IA no jogo Connect 4:
 - **Agente Minimax**: Implementa o algoritmo Minimax para decidir a melhor jogada, considerando uma profundidade de pesquisa definida.
 - **Agente Q-learning**: Utiliza aprendizado por reforço para aprender a política ótima ao longo de múltiplas partidas simuladas.
+- **Agente Aleatório**: Seleciona uma jogada válida aleatória.
 
 ## Estrutura do Projeto
 
