@@ -1,4 +1,6 @@
-# Agente Q-Learning para jogar Connect4
+# AI-Connect4-Project
+
+Adaptado de https://github.com/KeithGalli/Connect4-Python.
 
 Este repositório contém o código fonte para o projeto final de Inteligência Artificial da UFV (INF420), onde são implementados agentes para jogar o jogo Connect 4. O projeto envolve 3 agentes: um usando a técnica Minimax; outro usando Q-learning e um aleatório, competindo entre si em um ambiente simulado.
 
