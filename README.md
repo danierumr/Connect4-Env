@@ -1,6 +1,6 @@
 # Projeto de IA: Connect 4
 
-Este repositório contém o código fonte para o projeto de Inteligência Artificial, onde são implementados agentes para jogar o jogo Connect 4. O projeto envolve dois agentes: um usando a técnica Minimax e outro usando Q-learning, competindo entre si em um ambiente simulado.
+Este repositório contém o código fonte para o projeto final de Inteligência Artificial da UFV (INF420), onde são implementados agentes para jogar o jogo Connect 4. O projeto envolve 3 agentes: um usando a técnica Minimax; outro usando Q-learning e um aleatório, competindo entre si em um ambiente simulado.
 
 ## Descrição
 
